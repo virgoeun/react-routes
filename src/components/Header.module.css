@@ -1,0 +1,19 @@
+.header {
+    background: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    color: white;
+   }
+   .nav {
+    flex-basis: 50%;
+    display: flex;
+    justify-content: space-between;
+   }
+   
+   .nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+ }
